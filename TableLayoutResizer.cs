@@ -386,7 +386,7 @@ public class TableLayoutResizer : Component, INotifyPropertyChanged, INotifyProp
   /// Gets or sets the margin around cell boundaries where resizing is triggered.
   /// </summary>
   [DefaultValue(typeof(Size), "2, 2")]
-  [Category("Appearance")]
+  [Category("Behavior")]
   [Description("Gets or sets the margin around cell boundaries where resizing is triggered.")]
   public Size ResizeMargin
   {

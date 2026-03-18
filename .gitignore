@@ -1,0 +1,6 @@
+.vs
+.vshistory
+.idea
+bin
+obj
+*.user
