@@ -1,6 +1,8 @@
-﻿namespace TablePanelLayoutResizer
+﻿using TablePanelLayoutResizer.Lib;
+
+namespace TablePanelLayoutResizer
 {
-  partial class Form1
+  partial class WinFormsDemo
   {
     /// <summary>
     ///  Required designer variable.
@@ -29,7 +31,7 @@
     private void InitializeComponent()
     {
       components = new System.ComponentModel.Container();
-      System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+      System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(WinFormsDemo));
       m_tableLayoutPanel = new TableLayoutPanel();
       label16 = new Label();
       label11 = new Label();

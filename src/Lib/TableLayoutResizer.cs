@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace TablePanelLayoutResizer;
+namespace TablePanelLayoutResizer.Lib;
 
 /// <summary>
 /// Represents the result of a hit test on a <see cref="TableLayoutPanel"/>.
